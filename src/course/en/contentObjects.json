@@ -1,0 +1,226 @@
+[
+    {
+        "_id": "co-00",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "pageBody": "",
+        "_isHidden": true,
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Plant and Equipment",
+        "displayTitle": "Plant and Equipment",
+        "body": "Those with management responsibility need to think about the types of plant or equipment that they or their employees may have to use.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-05",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-1.jpg",
+            "alt": ""
+        },
+        "_isHidden": false,
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-10",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Contractors",
+        "displayTitle": "Contractors",
+        "body": "You may occasionally need external, specialist help if you have a hazardous task or complex process, but it is important to understand and recognise your responsibilities to contractors.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-10",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-2.jpg",
+            "alt": ""
+        },
+        "_isHidden": false,
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-15",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Safe Workplace",
+        "displayTitle": "Safe Workplace",
+        "body": "Those with Management responsibilities must understand the health and safety risks in their part of the organisation and ensure welfare facilities are in place and a working environment that’s healthy and safe for everyone.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-15",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-3.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-20",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Potential Hazards",
+        "displayTitle": "Potential Hazards",
+        "body": "There are numerous potential hazards in the workplace that could pose a risk to a person’s health, safety and wellbeing in the workplace.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-20",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-4.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-25",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Health and Safety Management",
+        "displayTitle": "Health and Safety Management<br/><br/>",
+        "body": "The Organisation has a written Health & Safety Management policy which clearly sets out roles, responsibilities and ultimate accountability for all. Managers and those in positions of responsibility should view the policy to understand their individual responsibilities.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-25",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-5.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-30",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Personal Protective Equipment and Signage",
+        "displayTitle": "Personal Protective Equipment and Signage<br/><br/>",
+        "body": "Personal Protective Equipment (PPE) and safety signs are used if there is a significant risk that can't be avoided or controlled in any other way.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-30",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-6.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-35",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Accidents, Incidents and Reporting",
+        "displayTitle": "Accidents, Incidents and Reporting<br/><br/>",
+        "body": "Risk assessments and implementing control measures should reduce risks in the workplace, but mistakes can still occur resulting in injuries, ill health or damage. We have a legal duty to respond, record and report all accidents and incidents in the workplace.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-35",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-7.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-40",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Manual Handling",
+        "displayTitle": "Manual Handling",
+        "body": "Manual handling is defined as the supporting and transporting of a load and includes lifting, lowering, pushing, pulling or carrying. If any of these tasks are not carried out appropriately there is a risk of injury.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-40",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-8.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-45",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Vulnerable Employees",
+        "displayTitle": "Vulnerable Employees",
+        "body": "Health and safety should not be used as an excuse to justify discriminating against vulnerable employees, such as new and expectant mothers, home and transient workers, or people with disabilities.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-45",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-9.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-50",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClassName": "",
+        "title": "Confirmation Exercise",
+        "displayTitle": "Confirmation Exercise",
+        "body": "In the final module you will need to complete a validation exercise in order to successfully complete the course.",
+        "pageBody": "",
+        "instruction": "",
+        "_showCommulativeProgress": true,
+        "_commulativeProgressIds": "co-50",
+        "_graphic": {
+            "src": "course/en/images/menu/menu-10.jpg",
+            "alt": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+]

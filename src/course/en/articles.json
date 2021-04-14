@@ -1,0 +1,1241 @@
+[
+    {
+        "_id": "a-0-1-0",
+        "_parentId": "co-00",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-00",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-0-1-1",
+        "_parentId": "co-00",
+        "_type": "article",
+        "_classes": "media-article",
+        "title": "a-00",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-0-1-2",
+        "_parentId": "co-00",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-00",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-0-1-3",
+        "_parentId": "co-00",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-0-1-3",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-1-1-0",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-1",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-2",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-3",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-3b",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-4",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "media-article",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-5",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+
+    {
+        "_id": "a-1-1-9",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-05",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-1-1-12",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-1-1-12",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-1-1-13",
+        "_parentId": "co-05",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-1-1-13",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-2-1-0",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-2-1-0",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+
+    {
+        "_id": "a-2-1-1",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-2-1-1",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },  
+    {
+        "_id": "a-2-1-2",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-10",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    }, 
+    {
+        "_id": "a-2-1-3",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-10",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },   
+    {
+        "_id": "a-2-1-4",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-10",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    }, 
+    {
+        "_id": "a-2-1-5",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "accordion-half-centered",
+        "title": "a-10",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-2-1-6",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-10",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-2-1-10",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-1-1-10",
+        "displayTitle": "",
+        "body": ""
+    },  
+    {
+        "_id": "a-2-1-11",
+        "_parentId": "co-10",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-2-1-11",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-0",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-3-1-0",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-1",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-3-1-1",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-2",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-3-1-2",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-3",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "media-article",
+        "title": "a-3-1-3",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-4",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-3-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-5",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "media-article",
+        "title": "a-3-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-6",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-3-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-7",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-3-1-7",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-8",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-3-1-8",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-11",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-3-1-11",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-14",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-3-1-14",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-3-1-15",
+        "_parentId": "co-15",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-3-1-15",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-0",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-4-1-0",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-1",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-4-1-1",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-2",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-2",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-3",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-50",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+
+    {
+        "_id": "a-4-1-4",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+
+    {
+        "_id": "a-4-1-5",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+
+    {
+        "_id": "a-4-1-6",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-7",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-50",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-4-1-8",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "accordion-half-centered",
+        "title": "a-4-1-8",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-9",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-9",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-10",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-10",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-11",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-11",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-12",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "accordion-half-centered",
+        "title": "a-4-1-12",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-13",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-13",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-14",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-14",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-15",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-15",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-16",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-16",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-17",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-4-1-17",
+        "displayTitle": "",
+        "body": ""
+    },
+   
+    {
+        "_id": "a-4-1-20",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-4-1-20",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-21",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-4-1-21",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-4-1-22",
+        "_parentId": "co-20",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-4-1-22",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-0",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-30",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-5-1-1",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-30",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-5-1-2",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-5-1-2",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-3",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-5-1-3",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-4",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-5-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-5a",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-5-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-5b",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "quote-centered",
+        "title": "a-5-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-6",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-5-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-7",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "flipcard-small",
+        "title": "a-5-1-7",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-8",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-5-1-8",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-9",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-5-1-9",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-10",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-5-1-10",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-11",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-5-1-11",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-5-1-30",
+        "_parentId": "co-25",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-5-1-30",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-0",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-30",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-6-1-1",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-30",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-6-1-2",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-6-1-2",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-3",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-6-1-3",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-4",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-6-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-5",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-6-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-6",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-6-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-7",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-6-1-7",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-8",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-6-1-8",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-6-1-9",
+        "_parentId": "co-30",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-6-1-9",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-0",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-35",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-7-1-1",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-35",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-7-1-2",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-35",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-3",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "width-940",
+        "title": "a-7-1-3",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-4",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-5",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "accordion-half-centered",
+        "title": "a-7-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-6",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-7",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-7",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-8",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "accordion-half-centered",
+        "title": "a-7-1-8",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-9",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-9",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-10",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-10",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-11",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-11",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-12",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-12",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-13",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-13",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-14",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-14",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-15",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-15",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-16",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-16",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-17",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-7-1-17",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-18",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-7-1-18",
+        "displayTitle": "",
+        "body": ""
+    },   
+    {
+        "_id": "a-7-1-19",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-7-1-19",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-23",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-77-1-23",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-27",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-7-1-27",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-7-1-28",
+        "_parentId": "co-35",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-7-1-28",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-8-1-0",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-30",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-8-1-1",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-8-1-1",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    }, 
+    {
+        "_id": "a-8-1-2",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-8-1-2",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-8-1-3",
+        "_parentId": "co-40",
+        "_type": "article",
+         "_classes": "module-description",
+        "title": "a-40",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    
+    {
+        "_id": "a-8-1-4",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-8-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-8-1-5",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-8-1-5",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-8-1-6",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-8-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-8-1-7",
+        "_parentId": "co-40",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-8-1-7",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-0",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-9-1-0",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-9-1-1",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-9-1-1",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-9-1-2",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-9-1-2",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-3",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-9-1-3",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-4",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-9-1-4",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-5",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-9-1-5",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-9-1-6",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-9-1-6",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-7",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "flipcard-small",
+        "title": "a-9-1-7",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-8",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-9-1-8",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-13",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "branching-scenario mcq-half-centered",
+        "title": "a-9-1-12",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-18",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "module-summary",
+        "title": "a-9-1-18",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-9-1-19",
+        "_parentId": "co-45",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-9-1-19",
+        "displayTitle": "",
+        "body": ""
+    },
+    {
+        "_id": "a-10-1-0",
+        "_parentId": "co-50",
+        "_type": "article",
+        "_classes": "module-header",
+        "title": "a-50",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    {
+        "_id": "a-10-1-1",
+        "_parentId": "co-50",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-10-1-1",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },    
+    {
+        "_id": "a-10-1-2",
+        "_parentId": "co-50",
+        "_type": "article",
+        "_classes": "module-description",
+        "title": "a-10-1-2",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+
+    {
+        "_id": "a-10-1-3",
+        "_parentId": "co-50",
+        "_type": "article",
+        "_classes": "mcq-half-centered",
+        "title": "a-10-1-3",
+        "displayTitle": "",
+        "body": "",
+        "_assessment": {
+            "_isEnabled": true,
+            "_id": "postAssessment",
+            "_isPercentageBased": true,
+            "_scoreToPass": 80,
+            "_includeInTotalScore": true,
+            "_assessmentWeight": 1,
+            "_suppressMarking": false,
+            "_allowResetIfPassed": false,
+            "_banks": {
+                "_isEnabled": true,
+                "_split": "10,0",
+                "_randomisation": false
+            },
+            "_questions": {
+                "_resetType": "hard",
+                "_canShowFeedback": false,
+                "_canShowMarking": false,
+                "_canShowModelAnswer": false
+            },
+            "_isResetOnRevisit": true,
+            "_attempts": "infinite"
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_button": {
+                "_isEnabled": false,
+                "text": "",
+                "startText": "",
+                "finalText": ""
+            }
+        }
+    },
+    {
+        "_id": "a-10-1-24",
+        "_parentId": "co-50",
+        "_type": "article",
+        "_classes": "",
+        "title": "a-10-1-24",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    },
+    
+    {
+        "_id": "a-10-1-25",
+        "_parentId": "co-50",
+        "_type": "article",
+        "_classes": "course-footer",
+        "title": "a-10-1-25",
+        "displayTitle": "",
+        "body": "",
+        "altText": ""
+    }
+]
